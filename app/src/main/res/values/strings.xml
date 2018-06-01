@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DBWithContentProvider</string>
+    <string name="list_all_notes">List of all notes:</string>
+    <string name="adding_note">Adding a note to the Database</string>
+    <string name="enter_information">Please enter information</string>
+    <string name="note_title">1) Note title</string>
+    <string name="note_date">2) Date of creation</string>
+    <string name="note_details">3) Details</string>
+    <string name="submit_button">Submit</string>
+    <string name="delete_button">Delete all notes</string>
+</resources>
